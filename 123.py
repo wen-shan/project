@@ -287,10 +287,10 @@ while flag:
 # y1, y2 = add_weight(w2=weight, w1=weight1)
 # print(y1, y2)
 
-# x = 10
-# y = 20
-# def calculate(num1 , num2):
-#     return num1 + num2
-# calculate(x,y)
+x = 10
+y = 20
+def calculate(num1 , num2):
+    return num1 + num2
+calculate(x,y)
 
 
